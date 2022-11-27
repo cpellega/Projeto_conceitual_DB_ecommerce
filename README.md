@@ -1,4 +1,4 @@
-#  Projeto Conceitual de Banco de Dados – E-COMMERCE
+#  Projeto Conceitual de Banco de Dados – e-COMMERCE
 
 ### Objetivo
 
